@@ -6,3 +6,4 @@ hello added this new line
 how is things 
 =======
 >>>>>>> parent of 1fa314f (updated)
+hi
