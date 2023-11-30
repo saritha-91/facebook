@@ -1,9 +1,12 @@
 hello mummy
 we love you so much
 you are important to us
-<<<<<<< HEAD
-hello added this new line
+
+hello added this new li
 how is things 
-=======
->>>>>>> parent of 1fa314f (updated)
+
 hi
+
+how is things
+going on
+please tell me if you need any help
